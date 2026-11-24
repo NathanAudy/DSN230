@@ -1,0 +1,4 @@
+# Entrée réflexive 2
+
+Je dirais que ce que j'ai trouvé le plus difficile, c'était de lire les lignes de code dans les fichiers Arduino. Je suis conscient que dans ce module, l'objectif n'était pas de comprendre et de créer des codes de cette complexité, mais en faire la lecture était beaucoup plus complexe que dans le module 1. Souvent nous avions besoin seulement de modifier quelques lignes, donc rien de complexe, mais j'avais de la difficulté à le comprendre dans son ensemble. J'étais seulement curieux du fonctionnement. Pour surmonter tout ça, j'ai fait quelques recherches en dehors des cours par rapport à certaines nouvelles fonctions (par exemple celles dans le fichier arduino sur les servomoteurs). J'ai évidemment encore quelques questionnements, mais je comprends un peu plus la logique derrière certaines interactions... 
+

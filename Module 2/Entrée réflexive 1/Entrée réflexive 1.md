@@ -1,0 +1,4 @@
+# Entrée réflexive 1
+
+
+L'expérimentation qui m'a le plus intéressé, c'est celle du cours 3 du module 2, avec les pompes à air et les chambres gonflables. Dans ce cours, j'ai appris qu'avec des déformations matérielles assez simples, je peux transformer drastiquement la forme de la chambre gonflable. Ce sont d'ailleurs ces déformations qui m'ont donné envie d'explorer davantage le sujet. Avec des petites manipulations, on peut vraiment faire n'importe quoi avec la forme du plastique. On crée quelque chose de purement artistique, ou comme nous l'avons vu dans la présentation du cours 3, de la robotique molle. En bref, j'aimais la liberté que nous offrait le matériel.
